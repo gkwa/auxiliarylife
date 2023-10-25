@@ -1,0 +1,5 @@
+Learn how to use acorn-io/aml to validate aml files.
+
+https://github.com/acorn-io/aml/tree/main#schema
+
+https://github.com/acorn-io/runtime/blob/main/pkg/appdefinition/app.acorn
